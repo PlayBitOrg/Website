@@ -51,7 +51,7 @@ export default function PrivacyPolicy() {
             
             <section className="space-y-4">
               <h2 className="text-2xl font-bold text-white uppercase tracking-wider mt-8 mb-4">5. Contact Us</h2>
-              <p>If you have any questions or suggestions about our Privacy Policy, or want to report an issue, please <a href="https://github.com/abhishekdewan101/PlayBit/issues/new" target="_blank" rel="noopener noreferrer" className="text-game-neon hover:underline">file an issue on our GitHub repository</a>.</p>
+              <p>If you have any questions or suggestions about our Privacy Policy, or want to report an issue, please <a href="https://github.com/abhishekdewan101./issues/new" target="_blank" rel="noopener noreferrer" className="text-game-neon hover:underline">file an issue on our GitHub repository</a>.</p>
             </section>
           </div>
           

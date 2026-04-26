@@ -31,7 +31,7 @@ export default function CtaBanner() {
             <div className="flex justify-center lg:justify-end">
               <div className="w-full max-w-sm rounded-[2rem] border-8 border-game-border overflow-hidden transform lg:translate-x-8 lg:-translate-y-8">
                 <img 
-                  src="/PlayBit/assets/screenshots/profile.png" 
+                  src="./assets/screenshots/profile.png" 
                   alt="PlayBit Profile Stats" 
                   className="w-full h-auto object-cover"
                 />

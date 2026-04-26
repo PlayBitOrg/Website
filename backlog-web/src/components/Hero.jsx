@@ -33,7 +33,7 @@ export default function Hero() {
               {/* Phone Mockup Frame */}
               <div className="rounded-[2rem] border-8 border-game-border overflow-hidden bg-game-card shadow-2xl relative z-10 transform md:rotate-2 hover:rotate-0 transition-transform duration-500">
                 <img 
-                  src="/PlayBit/assets/screenshots/hero-discover.png" 
+                  src="./assets/screenshots/hero-discover.png" 
                   alt="PlayBit Discover Feed" 
                   className="w-full h-auto object-cover"
                 />

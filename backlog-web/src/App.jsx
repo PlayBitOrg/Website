@@ -37,7 +37,7 @@ function App() {
           id="features"
           title="Never Miss a Release."
           body="A curated feed of the latest games and news from the sources you trust. From AAA blockbusters to indie gems, stay ahead of the curve with integrated video trailers and deep-dive articles."
-          image="/PlayBit/assets/screenshots/hero-discover.png"
+          image="./assets/screenshots/hero-discover.png"
           imageAlt="Discover feed"
           reversed={false}
           accentColor="neon"
@@ -47,7 +47,7 @@ function App() {
           id="library"
           title="Conquer Your Library."
           body="Finally, a way to organize your collection that actually works. Categorize what you're playing, what's on deck, and what you've finished across all platforms."
-          image="/PlayBit/assets/screenshots/library.png"
+          image="./assets/screenshots/library.png"
           imageAlt="Library tracker"
           reversed={true}
           accentColor="cyan"
@@ -57,7 +57,7 @@ function App() {
           id="details"
           title="The Details Matter."
           body="Get all the information you need in one place. Ratings, platforms, release dates, and integrated reviews so you know exactly what you're getting into."
-          image="/PlayBit/assets/screenshots/game-details.png"
+          image="./assets/screenshots/game-details.png"
           imageAlt="Game details"
           reversed={false}
           accentColor="coral"

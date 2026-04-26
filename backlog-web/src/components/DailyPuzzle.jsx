@@ -45,7 +45,7 @@ export default function DailyPuzzle() {
           <div className="relative w-full max-w-xs transform md:-rotate-6 hover:rotate-0 transition-transform duration-300 z-20">
             <div className="rounded-[2rem] border-8 border-game-border overflow-hidden bg-game-dark shadow-[16px_16px_0px_0px_#CBF221]">
               <img 
-                src="/PlayBit/assets/screenshots/pixel-guess.png" 
+                src="./assets/screenshots/pixel-guess.png" 
                 alt="Pixel Guess Puzzle" 
                 className="w-full h-auto"
               />
@@ -59,7 +59,7 @@ export default function DailyPuzzle() {
           <div className="relative w-full max-w-xs transform md:rotate-6 hover:rotate-0 transition-transform duration-300 z-20">
             <div className="rounded-[2rem] border-8 border-game-border overflow-hidden bg-game-dark shadow-[16px_16px_0px_0px_#F25C78]">
               <img 
-                src="/PlayBit/assets/screenshots/play.png" 
+                src="./assets/screenshots/play.png" 
                 alt="Play Section" 
                 className="w-full h-auto"
               />
