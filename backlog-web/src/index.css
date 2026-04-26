@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme {
+  /* Colors — extracted from the app's design language */
+  --color-game-dark: #0F1115;
+  --color-game-card: #1C1F26;
+  --color-game-neon: #CBF221;
+  --color-game-pink: #F25C78;
+  --color-game-mint: #6DD5B0;      /* From the PB logo */
+  --color-game-coral: #E8704A;     /* From the PB logo */
+  --color-game-cyan: #5CE0D8;      /* From the app's accent tags */
+  --color-game-border: #2A2D35;    /* Visible structural borders */
+
+  /* Typography */
+  --font-heading: 'Inter', sans-serif;
+  --font-body: 'Inter', sans-serif;
+}
